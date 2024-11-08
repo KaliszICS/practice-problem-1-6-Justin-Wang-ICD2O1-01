@@ -36,7 +36,7 @@ def q4():
   num13 = (num11 * num12)
   print(math.floor(num13))
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
