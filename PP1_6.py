@@ -29,8 +29,8 @@ def q3():
 # From input recieve two numbers (can be decimal fractions).  
 # Output their result multiplied together.  Then round down to the nearest whole number
 def q4():
-  num9 = input("Input a number: ")
-  num10 = input("Input a number: ")
+  num9 = float(input("Input a number: "))
+  num10 = float(input("Input a number: "))
   num11 = int(num9)
   num12 = int(num10)
   num13 = num11 * num12
