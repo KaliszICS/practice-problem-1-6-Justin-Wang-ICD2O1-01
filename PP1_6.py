@@ -33,7 +33,7 @@ def q4():
   num10 = input("Input a number: ")
   num11 = int(num9)
   num12 = int(num10)
-  num13 = (num11 * num12)
+  num13 = num11 * num12
   print(math.floor(num13))
 
 #q1()
