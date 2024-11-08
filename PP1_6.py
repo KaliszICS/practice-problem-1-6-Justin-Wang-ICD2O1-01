@@ -31,10 +31,8 @@ def q3():
 def q4():
   num9 = int(input("Input a number: "))
   num10 = int(input("Input a number: "))
-  num11 = int(num9)
-  num12 = int(num10)
-  num13 = num11 * num12
-  print(math.floor(num13))
+  num11 = num9 * num10
+  print(math.floor(num11))
 
 #q1()
 #q2()
